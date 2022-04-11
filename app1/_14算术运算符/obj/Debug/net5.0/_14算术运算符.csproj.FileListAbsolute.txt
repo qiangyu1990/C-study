@@ -1,0 +1,16 @@
+D:\Robam\Net_study\app1\_14算术运算符\bin\Debug\net5.0\_14算术运算符.exe
+D:\Robam\Net_study\app1\_14算术运算符\bin\Debug\net5.0\_14算术运算符.deps.json
+D:\Robam\Net_study\app1\_14算术运算符\bin\Debug\net5.0\_14算术运算符.runtimeconfig.json
+D:\Robam\Net_study\app1\_14算术运算符\bin\Debug\net5.0\_14算术运算符.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\_14算术运算符\bin\Debug\net5.0\_14算术运算符.dll
+D:\Robam\Net_study\app1\_14算术运算符\bin\Debug\net5.0\ref\_14算术运算符.dll
+D:\Robam\Net_study\app1\_14算术运算符\bin\Debug\net5.0\_14算术运算符.pdb
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.AssemblyInfo.cs
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.dll
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\ref\_14算术运算符.dll
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.pdb
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.genruntimeconfig.cache
+D:\Robam\Net_study\app1\_14算术运算符\obj\Debug\net5.0\_14算术运算符.csproj.AssemblyReference.cache

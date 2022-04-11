@@ -1,0 +1,16 @@
+D:\Robam\Net_study\app1\04变量的使用规则\bin\Debug\net5.0\04变量的使用规则.exe
+D:\Robam\Net_study\app1\04变量的使用规则\bin\Debug\net5.0\04变量的使用规则.deps.json
+D:\Robam\Net_study\app1\04变量的使用规则\bin\Debug\net5.0\04变量的使用规则.runtimeconfig.json
+D:\Robam\Net_study\app1\04变量的使用规则\bin\Debug\net5.0\04变量的使用规则.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\04变量的使用规则\bin\Debug\net5.0\04变量的使用规则.dll
+D:\Robam\Net_study\app1\04变量的使用规则\bin\Debug\net5.0\ref\04变量的使用规则.dll
+D:\Robam\Net_study\app1\04变量的使用规则\bin\Debug\net5.0\04变量的使用规则.pdb
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.AssemblyInfo.cs
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.dll
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\ref\04变量的使用规则.dll
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.pdb
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.genruntimeconfig.cache
+D:\Robam\Net_study\app1\04变量的使用规则\obj\Debug\net5.0\04变量的使用规则.csproj.AssemblyReference.cache

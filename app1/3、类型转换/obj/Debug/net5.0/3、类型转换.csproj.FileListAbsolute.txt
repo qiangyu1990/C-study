@@ -1,0 +1,15 @@
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\3、类型转换.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\3、类型转换.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\3、类型转换.AssemblyInfo.cs
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\3、类型转换.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\3、类型转换\bin\Debug\net5.0\3、类型转换.exe
+D:\Robam\Net_study\app1\3、类型转换\bin\Debug\net5.0\3、类型转换.deps.json
+D:\Robam\Net_study\app1\3、类型转换\bin\Debug\net5.0\3、类型转换.runtimeconfig.json
+D:\Robam\Net_study\app1\3、类型转换\bin\Debug\net5.0\3、类型转换.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\3、类型转换\bin\Debug\net5.0\3、类型转换.dll
+D:\Robam\Net_study\app1\3、类型转换\bin\Debug\net5.0\ref\3、类型转换.dll
+D:\Robam\Net_study\app1\3、类型转换\bin\Debug\net5.0\3、类型转换.pdb
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\3、类型转换.dll
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\ref\3、类型转换.dll
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\3、类型转换.pdb
+D:\Robam\Net_study\app1\3、类型转换\obj\Debug\net5.0\3、类型转换.genruntimeconfig.cache

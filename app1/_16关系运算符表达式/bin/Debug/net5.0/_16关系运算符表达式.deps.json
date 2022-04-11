@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_16关系运算符表达式/1.0.0": {
+        "runtime": {
+          "_16关系运算符表达式.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_16关系运算符表达式/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

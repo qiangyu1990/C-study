@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_if 语句判断/1.0.0": {
+        "runtime": {
+          "_if 语句判断.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_if 语句判断/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

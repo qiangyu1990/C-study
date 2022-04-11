@@ -1,0 +1,16 @@
+D:\Robam\Net_study\app1\_10占位符\bin\Debug\net5.0\_10占位符.exe
+D:\Robam\Net_study\app1\_10占位符\bin\Debug\net5.0\_10占位符.deps.json
+D:\Robam\Net_study\app1\_10占位符\bin\Debug\net5.0\_10占位符.runtimeconfig.json
+D:\Robam\Net_study\app1\_10占位符\bin\Debug\net5.0\_10占位符.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\_10占位符\bin\Debug\net5.0\_10占位符.dll
+D:\Robam\Net_study\app1\_10占位符\bin\Debug\net5.0\ref\_10占位符.dll
+D:\Robam\Net_study\app1\_10占位符\bin\Debug\net5.0\_10占位符.pdb
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.AssemblyInfo.cs
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.dll
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\ref\_10占位符.dll
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.pdb
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.genruntimeconfig.cache
+D:\Robam\Net_study\app1\_10占位符\obj\Debug\net5.0\_10占位符.csproj.AssemblyReference.cache

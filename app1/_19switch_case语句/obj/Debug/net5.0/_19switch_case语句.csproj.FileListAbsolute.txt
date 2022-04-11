@@ -1,0 +1,15 @@
+D:\Robam\Net_study\app1\_19switch_case语句\bin\Debug\net5.0\_19switch_case语句.exe
+D:\Robam\Net_study\app1\_19switch_case语句\bin\Debug\net5.0\_19switch_case语句.deps.json
+D:\Robam\Net_study\app1\_19switch_case语句\bin\Debug\net5.0\_19switch_case语句.runtimeconfig.json
+D:\Robam\Net_study\app1\_19switch_case语句\bin\Debug\net5.0\_19switch_case语句.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\_19switch_case语句\bin\Debug\net5.0\_19switch_case语句.dll
+D:\Robam\Net_study\app1\_19switch_case语句\bin\Debug\net5.0\ref\_19switch_case语句.dll
+D:\Robam\Net_study\app1\_19switch_case语句\bin\Debug\net5.0\_19switch_case语句.pdb
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\_19switch_case语句.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\_19switch_case语句.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\_19switch_case语句.AssemblyInfo.cs
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\_19switch_case语句.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\_19switch_case语句.dll
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\ref\_19switch_case语句.dll
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\_19switch_case语句.pdb
+D:\Robam\Net_study\app1\_19switch_case语句\obj\Debug\net5.0\_19switch_case语句.genruntimeconfig.cache

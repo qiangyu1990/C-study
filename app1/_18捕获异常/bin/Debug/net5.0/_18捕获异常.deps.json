@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_18捕获异常/1.0.0": {
+        "runtime": {
+          "_18捕获异常.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_18捕获异常/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

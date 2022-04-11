@@ -1,0 +1,15 @@
+D:\Robam\Net_study\app1\myApp2\bin\Debug\net5.0\myApp2.exe
+D:\Robam\Net_study\app1\myApp2\bin\Debug\net5.0\myApp2.deps.json
+D:\Robam\Net_study\app1\myApp2\bin\Debug\net5.0\myApp2.runtimeconfig.json
+D:\Robam\Net_study\app1\myApp2\bin\Debug\net5.0\myApp2.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\myApp2\bin\Debug\net5.0\myApp2.dll
+D:\Robam\Net_study\app1\myApp2\bin\Debug\net5.0\ref\myApp2.dll
+D:\Robam\Net_study\app1\myApp2\bin\Debug\net5.0\myApp2.pdb
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\myApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\myApp2.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\myApp2.AssemblyInfo.cs
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\myApp2.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\myApp2.dll
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\ref\myApp2.dll
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\myApp2.pdb
+D:\Robam\Net_study\app1\myApp2\obj\Debug\net5.0\myApp2.genruntimeconfig.cache

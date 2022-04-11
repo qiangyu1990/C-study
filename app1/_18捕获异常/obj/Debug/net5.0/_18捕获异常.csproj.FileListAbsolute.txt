@@ -1,0 +1,15 @@
+D:\Robam\Net_study\app1\_18捕获异常\bin\Debug\net5.0\_18捕获异常.exe
+D:\Robam\Net_study\app1\_18捕获异常\bin\Debug\net5.0\_18捕获异常.deps.json
+D:\Robam\Net_study\app1\_18捕获异常\bin\Debug\net5.0\_18捕获异常.runtimeconfig.json
+D:\Robam\Net_study\app1\_18捕获异常\bin\Debug\net5.0\_18捕获异常.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\_18捕获异常\bin\Debug\net5.0\_18捕获异常.dll
+D:\Robam\Net_study\app1\_18捕获异常\bin\Debug\net5.0\ref\_18捕获异常.dll
+D:\Robam\Net_study\app1\_18捕获异常\bin\Debug\net5.0\_18捕获异常.pdb
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\_18捕获异常.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\_18捕获异常.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\_18捕获异常.AssemblyInfo.cs
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\_18捕获异常.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\_18捕获异常.dll
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\ref\_18捕获异常.dll
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\_18捕获异常.pdb
+D:\Robam\Net_study\app1\_18捕获异常\obj\Debug\net5.0\_18捕获异常.genruntimeconfig.cache

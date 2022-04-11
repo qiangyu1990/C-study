@@ -1,0 +1,16 @@
+D:\Robam\Net_study\app1\_15算术两道作业题\bin\Debug\net5.0\_15算术两道作业题.exe
+D:\Robam\Net_study\app1\_15算术两道作业题\bin\Debug\net5.0\_15算术两道作业题.deps.json
+D:\Robam\Net_study\app1\_15算术两道作业题\bin\Debug\net5.0\_15算术两道作业题.runtimeconfig.json
+D:\Robam\Net_study\app1\_15算术两道作业题\bin\Debug\net5.0\_15算术两道作业题.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\_15算术两道作业题\bin\Debug\net5.0\_15算术两道作业题.dll
+D:\Robam\Net_study\app1\_15算术两道作业题\bin\Debug\net5.0\ref\_15算术两道作业题.dll
+D:\Robam\Net_study\app1\_15算术两道作业题\bin\Debug\net5.0\_15算术两道作业题.pdb
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.AssemblyInfo.cs
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.dll
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\ref\_15算术两道作业题.dll
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.pdb
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.genruntimeconfig.cache
+D:\Robam\Net_study\app1\_15算术两道作业题\obj\Debug\net5.0\_15算术两道作业题.csproj.AssemblyReference.cache

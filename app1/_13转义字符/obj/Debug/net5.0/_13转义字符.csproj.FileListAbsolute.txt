@@ -1,0 +1,16 @@
+D:\Robam\Net_study\app1\_13转义字符\bin\Debug\net5.0\_13转义字符.exe
+D:\Robam\Net_study\app1\_13转义字符\bin\Debug\net5.0\_13转义字符.deps.json
+D:\Robam\Net_study\app1\_13转义字符\bin\Debug\net5.0\_13转义字符.runtimeconfig.json
+D:\Robam\Net_study\app1\_13转义字符\bin\Debug\net5.0\_13转义字符.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\_13转义字符\bin\Debug\net5.0\_13转义字符.dll
+D:\Robam\Net_study\app1\_13转义字符\bin\Debug\net5.0\ref\_13转义字符.dll
+D:\Robam\Net_study\app1\_13转义字符\bin\Debug\net5.0\_13转义字符.pdb
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.AssemblyInfo.cs
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.dll
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\ref\_13转义字符.dll
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.pdb
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.genruntimeconfig.cache
+D:\Robam\Net_study\app1\_13转义字符\obj\Debug\net5.0\_13转义字符.csproj.AssemblyReference.cache

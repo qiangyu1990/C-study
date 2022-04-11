@@ -1,0 +1,16 @@
+D:\Robam\Net_study\app1\_20断点调试\bin\Debug\net5.0\_20断点调试.exe
+D:\Robam\Net_study\app1\_20断点调试\bin\Debug\net5.0\_20断点调试.deps.json
+D:\Robam\Net_study\app1\_20断点调试\bin\Debug\net5.0\_20断点调试.runtimeconfig.json
+D:\Robam\Net_study\app1\_20断点调试\bin\Debug\net5.0\_20断点调试.runtimeconfig.dev.json
+D:\Robam\Net_study\app1\_20断点调试\bin\Debug\net5.0\_20断点调试.dll
+D:\Robam\Net_study\app1\_20断点调试\bin\Debug\net5.0\ref\_20断点调试.dll
+D:\Robam\Net_study\app1\_20断点调试\bin\Debug\net5.0\_20断点调试.pdb
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.AssemblyInfoInputs.cache
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.AssemblyInfo.cs
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.csproj.CoreCompileInputs.cache
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.dll
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\ref\_20断点调试.dll
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.pdb
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.genruntimeconfig.cache
+D:\Robam\Net_study\app1\_20断点调试\obj\Debug\net5.0\_20断点调试.csproj.AssemblyReference.cache
